@@ -1,0 +1,24 @@
+(version)
+6
+(box)
+0 102 0 93 0 160
+(physic_box)
+0 103 0 94 0 161
+(fields)
+data uint8 default_compression(zip) default_layout() default_value(0) min(0) max(0) 
+(bits)
+V2012012012012012012012
+(bitsperblock)
+20
+(blocksperfile)
+4
+(interleave block)
+0
+(time)
+0 0 time_%04d/
+(filename_template)
+./tooth/%04x.bin
+(missing_blocks)
+0
+(arco)
+0
