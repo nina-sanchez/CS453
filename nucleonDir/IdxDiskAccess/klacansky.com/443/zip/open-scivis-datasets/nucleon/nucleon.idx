@@ -1,0 +1,22 @@
+(version)
+6
+(box)
+0 40 0 40 0 40
+(fields)
+data uint8 default_compression(zip) default_layout() default_value(0) min(0) max(0) 
+(bits)
+V012012012012012012
+(bitsperblock)
+18
+(blocksperfile)
+1
+(interleave block)
+0
+(time)
+0 0 time_%04d/
+(filename_template)
+./nucleon/%04x.bin
+(missing_blocks)
+0
+(arco)
+0
